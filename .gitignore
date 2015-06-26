@@ -1,0 +1,9 @@
+*.sublime-workspace
+*.sublime-project
+*.pyc
+*.log.*
+*.log
+*.project
+*.pydevproject
+*.xml
+*.iml
